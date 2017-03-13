@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(blue_grunge_rinkles_by_kmk422.jpg);
+    
+}
+#ab1{
+margin:10px;
+color : white;
+}
+.text{
+font-size: 20px;
+font-weight: bold;
+padding : 20px 2px; 
+}
+
+#ab2 {
+    margin: 10px;
+    height: 120px;
+    text-align: center;
+    width: 50%;
+    padding : 10px 10px 10px 10px; 
+    background-color: black;
+    border: 0.5px solid white;
+    opacity: 0.6;
+    color: white ;
+    }
+#ax{
+    margin: 10px;
+    height: 120px;
+    text-align: center;
+    width: 50%;
+    padding : 10px 10px 10px 10px; 
+    background-color: black;
+    background-image:url(school-children-clip-art-free-i8.png);
+    border: 0.5px solid white;
+    opacity: 0.6;
+    color: white ;
+    }
+#ab3 {
+margin :10px;
+ float: right;
+text-align: right;
+position: absolute;
+    top: 10px;
+    right:10px;
+ 
+
+}
